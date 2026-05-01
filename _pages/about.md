@@ -10,7 +10,7 @@ redirect_from:
 About Me
 ======
 
-I am an undergraduate student in Computer Science and Technology at Shanghai Jiao Tong University. I will join the Department of Computer Science and Engineering at The Chinese University of Hong Kong as a Ph.D. student in Fall 2026.
+I am an undergraduate student in Computer Science and Technology at Shanghai Jiao Tong University. I will join the Department of Computer Science and Engineering at The Chinese University of Hong Kong as a Ph.D. student in Fall 2026, advised by Prof. [Yu Cheng](https://ych133.github.io/).
 
 My research interests include large language models, vision-language models, multimodal agent systems, and self-evolving agents.
 
@@ -25,13 +25,14 @@ Research Interests
 Education
 ======
 
-* Ph.D. student, Computer Science and Engineering, The Chinese University of Hong Kong, Fall 2026 -
+* Ph.D. student, Computer Science and Engineering, The Chinese University of Hong Kong, Fall 2026 -  
+  Advisor: Prof. [Yu Cheng](https://ych133.github.io/)
 * B.S., Computer Science and Technology, Shanghai Jiao Tong University, 2022 - 2026
 
 News
 ======
 
-* [2026.09] I will join The Chinese University of Hong Kong as a Ph.D. student in Computer Science and Engineering.
+* [2026.09] I will join The Chinese University of Hong Kong as a Ph.D. student in Computer Science and Engineering, advised by Prof. [Yu Cheng](https://ych133.github.io/).
 * [YYYY.MM] [Add recent news here.]
 
 Selected Publications
