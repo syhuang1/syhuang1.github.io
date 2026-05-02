@@ -11,54 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* Ph.D. student, Computer Science and Engineering, The Chinese University of Hong Kong, Fall 2026 -  
+  Advisor: Prof. [Yu Cheng](https://ych133.github.io/)
+* B.S., Computer Science and Technology, Shanghai Jiao Tong University, 2022 - 2026
+
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Large language models
+* Vision-language models
+* Multimodal agent systems
+* Self-evolving agents
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Research Intern, Qwen Applications Business Group, Alibaba, Apr. 2026 - Present
+* Research Intern, Center for Advanced Exploration, Shanghai Artificial Intelligence Laboratory, Jun. 2025 - Apr. 2026
+
+Contact
+======
+
+* Email: [ambrosehuang0430@gmail.com](mailto:ambrosehuang0430@gmail.com)
+* GitHub: [huaixuheqing](https://github.com/huaixuheqing)
+* Google Scholar: [Siyuan Huang](https://scholar.google.com/citations?user=Gw1kYZQAAAAJ)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
