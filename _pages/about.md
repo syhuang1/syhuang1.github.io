@@ -33,14 +33,26 @@ News
 ======
 
 * [2026.09] I will join The Chinese University of Hong Kong as a Ph.D. student in Computer Science and Engineering, advised by Prof. [Yu Cheng](https://ych133.github.io/).
-* [YYYY.MM] [Add recent news here.]
+* [2026.03] Our paper GEMS was released as an arXiv preprint.
+* [2026.02] Our paper LatentMem was released as an arXiv preprint.
+* [2025.12] Our paper DiffThinker was accepted to ICML 2026.
+* [2025.11] Our paper VideoSSR was accepted to CVPR 2026.
+* [2025.10] Our paper on token perception for multimodal reinforcement learning was accepted to ICLR 2026.
+* [2025.09] Our paper FrameThinker was accepted to ICLR 2026.
+* [2025.03] Our paper on sampling-efficient test-time scaling was accepted to NeurIPS 2025 as a Spotlight.
 
 Selected Publications
 ======
 
 Please see the [Publications](/publications/) page for a complete list.
 
-* [Paper title], [Conference/Journal], [Year]
+* Zefeng He\*, **Siyuan Huang**\*, Xiaoye Qu, Yafu Li, Tong Zhu, Yu Cheng, and Yang Yang. "GEMS: Agent-Native Multimodal Generation with Memory and Skills." arXiv preprint, 2026. \*Equal contribution.
+* Muxin Fu, Xiangyuan Xue, Yafu Li, Zefeng He, **Siyuan Huang**, Xiaoye Qu, Yu Cheng, and Yang Yang. "LatentMem: Customizing Latent Memory for Multi-Agent Systems." arXiv preprint, 2026.
+* Zefeng He, Xiaoye Qu, Yafu Li, Tong Zhu, **Siyuan Huang**, and Yu Cheng. "DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models." ICML 2026.
+* Zefeng He, Xiaoye Qu, Yafu Li, **Siyuan Huang**, Daizong Liu, and Yu Cheng. "VideoSSR: Video Self-Supervised Reinforcement Learning." CVPR 2026.
+* **Siyuan Huang**, Xiaoye Qu, Yafu Li, Yun Luo, Zefeng He, Daizong Liu, and Yu Cheng. "Spotlight on Token Perception for Multimodal Reinforcement Learning." ICLR 2026.
+* Zefeng He, Xiaoye Qu, Yafu Li, **Siyuan Huang**, Daizong Liu, and Yu Cheng. "FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting." ICLR 2026.
+* Yiming Wang, Pei Zhang, **Siyuan Huang**, Baosong Yang, Zhuosheng Zhang, Fei Huang, and Rui Wang. "Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding." NeurIPS 2025 Spotlight.
 
 Projects
 ======
