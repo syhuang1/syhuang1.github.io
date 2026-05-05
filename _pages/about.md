@@ -36,31 +36,29 @@ My research interests include large language models, vision-language models, mul
 
 - **[GEMS: Agent-Native Multimodal Generation with Memory and Skills](https://arxiv.org/abs/2603.28088)**  
   Zefeng He\*, **Siyuan Huang**\*, Xiaoye Qu, Yafu Li, Tong Zhu, Yu Cheng, and Yang Yang. arXiv preprint, 2026. \*Equal contribution.  
-  [Project](https://gems-gen.github.io/) | [Code](https://github.com/lcqysl/GEMS) | [BibTeX](/files/he2026gems.bib)
+  [Project](https://gems-gen.github.io/) | [Code](https://github.com/lcqysl/GEMS)
 
 - **[LatentMem: Customizing Latent Memory for Multi-Agent Systems](https://arxiv.org/abs/2602.03036)**  
-  Muxin Fu, Xiangyuan Xue, Yafu Li, Zefeng He, **Siyuan Huang**, Xiaoye Qu, Yu Cheng, and Yang Yang. arXiv preprint, 2026.  
-  [BibTeX](/files/fu2026latentmem.bib)
+  Muxin Fu, Xiangyuan Xue, Yafu Li, Zefeng He, **Siyuan Huang**, Xiaoye Qu, Yu Cheng, and Yang Yang. arXiv preprint, 2026.
 
 - **[DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](https://arxiv.org/abs/2512.24165)**  
   Zefeng He, Xiaoye Qu, Yafu Li, Tong Zhu, **Siyuan Huang**, and Yu Cheng. ICML 2026.  
-  [Project](https://diffthinker-project.github.io/) | [Code](https://github.com/lcqysl/DiffThinker) | [BibTeX](/files/he2025diffthinker.bib)
+  [Project](https://diffthinker-project.github.io/) | [Code](https://github.com/lcqysl/DiffThinker)
 
 - **[VideoSSR: Video Self-Supervised Reinforcement Learning](https://arxiv.org/abs/2511.06281)**  
   Zefeng He, Xiaoye Qu, Yafu Li, **Siyuan Huang**, Daizong Liu, and Yu Cheng. CVPR 2026.  
-  [Code](https://github.com/lcqysl/VideoSSR) | [BibTeX](/files/he2025videossr.bib)
+  [Code](https://github.com/lcqysl/VideoSSR)
 
 - **[Spotlight on Token Perception for Multimodal Reinforcement Learning](https://arxiv.org/abs/2510.09285)**  
   **Siyuan Huang**, Xiaoye Qu, Yafu Li, Yun Luo, Zefeng He, Daizong Liu, and Yu Cheng. ICLR 2026.  
-  [OpenReview](https://openreview.net/forum?id=bRA4lVWJVQ) | [Code](https://github.com/huaixuheqing/VPPO-RL) | [BibTeX](/files/huang2025spotlight.bib)
+  [OpenReview](https://openreview.net/forum?id=bRA4lVWJVQ) | [Code](https://github.com/huaixuheqing/VPPO-RL)
 
 - **[FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting](https://arxiv.org/abs/2509.24304)**  
   Zefeng He, Xiaoye Qu, Yafu Li, **Siyuan Huang**, Daizong Liu, and Yu Cheng. ICLR 2026.  
-  [OpenReview](https://openreview.net/forum?id=nsNpsCpVG1) | [BibTeX](/files/he2025framethinker.bib)
+  [OpenReview](https://openreview.net/forum?id=nsNpsCpVG1)
 
 - **[Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding](https://arxiv.org/abs/2503.01422)**  
-  Yiming Wang, Pei Zhang, **Siyuan Huang**, Baosong Yang, Zhuosheng Zhang, Fei Huang, and Rui Wang. NeurIPS 2025 Spotlight.  
-  [BibTeX](/files/wang2025sampling.bib)
+  Yiming Wang, Pei Zhang, **Siyuan Huang**, Baosong Yang, Zhuosheng Zhang, Fei Huang, and Rui Wang. NeurIPS 2025 Spotlight.
 
 # 🎖 Honors and Awards
 
