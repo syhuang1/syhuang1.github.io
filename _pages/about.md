@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am an undergraduate student in Computer Science and Technology at Shanghai Jiao Tong University. I will join the Department of Computer Science and Engineering at The Chinese University of Hong Kong as a Ph.D. student in Fall 2026, advised by Prof. [Yu Cheng](https://ych133.github.io/).
