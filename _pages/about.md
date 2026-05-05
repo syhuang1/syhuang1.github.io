@@ -57,7 +57,8 @@ My research interests include large language models, vision-language models, mul
   Zefeng He, Xiaoye Qu, Yafu Li, **Siyuan Huang**, Daizong Liu, and Yu Cheng. ICLR 2026.
 
 - **[Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding](https://arxiv.org/abs/2503.01422)**  
-  Yiming Wang, Pei Zhang, **Siyuan Huang**, Baosong Yang, Zhuosheng Zhang, Fei Huang, and Rui Wang. NeurIPS 2025 Spotlight.
+  Yiming Wang, Pei Zhang, **Siyuan Huang**, Baosong Yang, Zhuosheng Zhang, Fei Huang, and Rui Wang. NeurIPS 2025 Spotlight.  
+  [Code](https://github.com/Alsace08/ST-BoN)
 
 # 🎖 Honors and Awards
 
