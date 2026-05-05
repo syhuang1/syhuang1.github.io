@@ -39,7 +39,8 @@ My research interests include large language models, vision-language models, mul
   [Project](https://gems-gen.github.io/) | [Code](https://github.com/lcqysl/GEMS)
 
 - **[LatentMem: Customizing Latent Memory for Multi-Agent Systems](https://arxiv.org/abs/2602.03036)**  
-  Muxin Fu, Xiangyuan Xue, Yafu Li, Zefeng He, **Siyuan Huang**, Xiaoye Qu, Yu Cheng, and Yang Yang. arXiv preprint, 2026.
+  Muxin Fu, Xiangyuan Xue, Yafu Li, Zefeng He, **Siyuan Huang**, Xiaoye Qu, Yu Cheng, and Yang Yang. arXiv preprint, 2026.  
+  [Code](https://github.com/KANABOON1/LatentMem)
 
 - **[DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](https://arxiv.org/abs/2512.24165)**  
   Zefeng He, Xiaoye Qu, Yafu Li, Tong Zhu, **Siyuan Huang**, and Yu Cheng. ICML 2026.  
