@@ -64,6 +64,9 @@ My research interests include large language models, vision-language models, mul
 
 # 🎖 Honors and Awards
 
+- *2024 - 2025* National Scholarship
+- *2023 - 2024* National Scholarship
+
 # 📖 Educations
 
 - *Fall 2026 -* Ph.D. student, Computer Science and Engineering, The Chinese University of Hong Kong. Advisor: Prof. [Yu Cheng](https://ych133.github.io/).
