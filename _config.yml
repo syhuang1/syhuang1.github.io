@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siyuan Huang"
-description              : "Undergraduate student in Computer Science at Shanghai Jiao Tong University; incoming Ph.D. student at CUHK CSE."
+description              : "Personal academic homepage of Siyuan Huang."
 url                      : "https://syhuang1.github.io"
 baseurl                  : ""
 repository               : "syhuang1/syhuang1.github.io"
@@ -27,19 +27,19 @@ author:
   avatar           : "images/profile.png"
   bio              : "Undergraduate student in Computer Science; incoming Ph.D. student at CUHK CSE"
   location         : "Shanghai / Hong Kong"
-  employer         : "Shanghai Jiao Tong University"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Gw1kYZQAAAAJ"
   email            : "ambrosehuang0430@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://syhuang1.github.io"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "huaixuheqing"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
