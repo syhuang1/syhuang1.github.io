@@ -69,8 +69,6 @@ My research interests include large language models, vision-language models, mul
 - *Fall 2026 -* Ph.D. student, Computer Science and Engineering, The Chinese University of Hong Kong. Advisor: Prof. [Yu Cheng](https://ych133.github.io/).
 - *2022 - 2026* B.S., Computer Science and Technology, Shanghai Jiao Tong University.
 
-# 💬 Invited Talks
-
 # 💻 Internships
 
 - *Apr. 2026 - Present* Research Intern, Qwen Applications Business Group, Alibaba.
