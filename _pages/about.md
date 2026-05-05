@@ -19,20 +19,9 @@ redirect_from:
 
 I am an undergraduate student in Computer Science and Technology at Shanghai Jiao Tong University. I will join the Department of Computer Science and Engineering at The Chinese University of Hong Kong as a Ph.D. student in Fall 2026, advised by Prof. [Yu Cheng](https://ych133.github.io/).
 
-My research focuses on large language models, vision-language models, multimodal agent systems, and self-evolving agents.
+My research interests include large language models, vision-language models, multimodal agent systems, and self-evolving agents.
 
-<span class='anchor' id='research'></span>
-
-# Research
-
-- Large language models
-- Vision-language models
-- Multimodal agent systems
-- Self-evolving agents
-
-<span class='anchor' id='news'></span>
-
-# News
+# 🔥 News
 
 - *2026.08*: I will join The Chinese University of Hong Kong as a Ph.D. student in Computer Science and Engineering, advised by Prof. [Yu Cheng](https://ych133.github.io/).
 - *2026.05*: Our paper DiffThinker was accepted to ICML 2026.
@@ -43,9 +32,7 @@ My research focuses on large language models, vision-language models, multimodal
 - *2026.01*: Our paper FrameThinker was accepted to ICLR 2026.
 - *2025.09*: Our paper on sampling-efficient test-time scaling was accepted to NeurIPS 2025 as a Spotlight.
 
-<span class='anchor' id='publications'></span>
-
-# Publications
+# 📝 Publications
 
 - **[GEMS: Agent-Native Multimodal Generation with Memory and Skills](https://arxiv.org/abs/2603.28088)**  
   Zefeng He\*, **Siyuan Huang**\*, Xiaoye Qu, Yafu Li, Tong Zhu, Yu Cheng, and Yang Yang. arXiv preprint, 2026. \*Equal contribution.  
@@ -75,25 +62,16 @@ My research focuses on large language models, vision-language models, multimodal
   Yiming Wang, Pei Zhang, **Siyuan Huang**, Baosong Yang, Zhuosheng Zhang, Fei Huang, and Rui Wang. NeurIPS 2025 Spotlight.  
   [BibTeX](/files/wang2025sampling.bib)
 
-<span class='anchor' id='education'></span>
+# 🎖 Honors and Awards
 
-# Education
+# 📖 Educations
 
 - *Fall 2026 -* Ph.D. student, Computer Science and Engineering, The Chinese University of Hong Kong. Advisor: Prof. [Yu Cheng](https://ych133.github.io/).
 - *2022 - 2026* B.S., Computer Science and Technology, Shanghai Jiao Tong University.
 
-<span class='anchor' id='experience'></span>
+# 💬 Invited Talks
 
-# Experience
+# 💻 Internships
 
 - *Apr. 2026 - Present* Research Intern, Qwen Applications Business Group, Alibaba.
 - *Jun. 2025 - Apr. 2026* Research Intern, Center for Advanced Exploration, Shanghai Artificial Intelligence Laboratory.
-
-<span class='anchor' id='contact'></span>
-
-# Contact
-
-- Email: [ambrosehuang0430@gmail.com](mailto:ambrosehuang0430@gmail.com)
-- GitHub: [huaixuheqing](https://github.com/huaixuheqing)
-- Google Scholar: [Siyuan Huang](https://scholar.google.com/citations?user=Gw1kYZQAAAAJ)
-- CV: [Web CV](/cv/)
