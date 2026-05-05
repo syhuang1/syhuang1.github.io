@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siyuan Huang"
-description              : "Personal academic homepage of Siyuan Huang."
+description              :
 url                      : "https://syhuang1.github.io"
 baseurl                  : ""
 repository               : "syhuang1/syhuang1.github.io"
@@ -25,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siyuan Huang"
   avatar           : "images/profile.png"
-  bio              : "Undergraduate student in Computer Science; incoming Ph.D. student at CUHK CSE"
+  bio              : "Undergraduate student @ SJTU; incoming Ph.D. student @ CUHK CSE"
   location         : "Shanghai / Hong Kong"
   employer         :
   pubmed           : 
