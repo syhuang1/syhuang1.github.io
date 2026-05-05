@@ -1,72 +1,99 @@
 ---
 permalink: /
-title: "Siyuan Huang"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-======
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
 
 I am an undergraduate student in Computer Science and Technology at Shanghai Jiao Tong University. I will join the Department of Computer Science and Engineering at The Chinese University of Hong Kong as a Ph.D. student in Fall 2026, advised by Prof. [Yu Cheng](https://ych133.github.io/).
 
-My research interests include large language models, vision-language models, multimodal agent systems, and self-evolving agents.
+My research focuses on large language models, vision-language models, multimodal agent systems, and self-evolving agents.
 
-Research Interests
-======
+<span class='anchor' id='research'></span>
 
-* Large language models
-* Vision-language models
-* Multimodal agent systems
-* Self-evolving agents
+# Research
 
-Education
-======
+- Large language models
+- Vision-language models
+- Multimodal agent systems
+- Self-evolving agents
 
-* Ph.D. student, Computer Science and Engineering, The Chinese University of Hong Kong, Fall 2026 -  
-  Advisor: Prof. [Yu Cheng](https://ych133.github.io/)
-* B.S., Computer Science and Technology, Shanghai Jiao Tong University, 2022 - 2026
+<span class='anchor' id='news'></span>
 
-News
-======
+# News
 
-* [2026.08] I will join The Chinese University of Hong Kong as a Ph.D. student in Computer Science and Engineering, advised by Prof. [Yu Cheng](https://ych133.github.io/).
-* [2026.05] Our paper DiffThinker was accepted to ICML 2026.
-* [2026.03] Our paper GEMS was released as an arXiv preprint.
-* [2026.02] Our paper VideoSSR was accepted to CVPR 2026.
-* [2026.02] Our paper LatentMem was released as an arXiv preprint.
-* [2026.01] Our paper on token perception for multimodal reinforcement learning was accepted to ICLR 2026.
-* [2026.01] Our paper FrameThinker was accepted to ICLR 2026.
-* [2025.09] Our paper on sampling-efficient test-time scaling was accepted to NeurIPS 2025 as a Spotlight.
+- *2026.08*: I will join The Chinese University of Hong Kong as a Ph.D. student in Computer Science and Engineering, advised by Prof. [Yu Cheng](https://ych133.github.io/).
+- *2026.05*: Our paper DiffThinker was accepted to ICML 2026.
+- *2026.03*: Our paper GEMS was released as an arXiv preprint.
+- *2026.02*: Our paper VideoSSR was accepted to CVPR 2026.
+- *2026.02*: Our paper LatentMem was released as an arXiv preprint.
+- *2026.01*: Our paper on token perception for multimodal reinforcement learning was accepted to ICLR 2026.
+- *2026.01*: Our paper FrameThinker was accepted to ICLR 2026.
+- *2025.09*: Our paper on sampling-efficient test-time scaling was accepted to NeurIPS 2025 as a Spotlight.
 
-Selected Publications
-======
+<span class='anchor' id='publications'></span>
 
-Please see the [Publications](/publications/) page for a complete list.
+# Publications
 
-* Zefeng He\*, **Siyuan Huang**\*, Xiaoye Qu, Yafu Li, Tong Zhu, Yu Cheng, and Yang Yang. "GEMS: Agent-Native Multimodal Generation with Memory and Skills." arXiv preprint, 2026. \*Equal contribution.
-* Muxin Fu, Xiangyuan Xue, Yafu Li, Zefeng He, **Siyuan Huang**, Xiaoye Qu, Yu Cheng, and Yang Yang. "LatentMem: Customizing Latent Memory for Multi-Agent Systems." arXiv preprint, 2026.
-* Zefeng He, Xiaoye Qu, Yafu Li, Tong Zhu, **Siyuan Huang**, and Yu Cheng. "DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models." ICML 2026.
-* Zefeng He, Xiaoye Qu, Yafu Li, **Siyuan Huang**, Daizong Liu, and Yu Cheng. "VideoSSR: Video Self-Supervised Reinforcement Learning." CVPR 2026.
-* **Siyuan Huang**, Xiaoye Qu, Yafu Li, Yun Luo, Zefeng He, Daizong Liu, and Yu Cheng. "Spotlight on Token Perception for Multimodal Reinforcement Learning." ICLR 2026.
-* Zefeng He, Xiaoye Qu, Yafu Li, **Siyuan Huang**, Daizong Liu, and Yu Cheng. "FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting." ICLR 2026.
-* Yiming Wang, Pei Zhang, **Siyuan Huang**, Baosong Yang, Zhuosheng Zhang, Fei Huang, and Rui Wang. "Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding." NeurIPS 2025 Spotlight.
+- **[GEMS: Agent-Native Multimodal Generation with Memory and Skills](https://arxiv.org/abs/2603.28088)**  
+  Zefeng He\*, **Siyuan Huang**\*, Xiaoye Qu, Yafu Li, Tong Zhu, Yu Cheng, and Yang Yang. arXiv preprint, 2026. \*Equal contribution.  
+  [Project](https://gems-gen.github.io/) | [Code](https://github.com/lcqysl/GEMS) | [BibTeX](/files/he2026gems.bib)
 
-Projects
-======
+- **[LatentMem: Customizing Latent Memory for Multi-Agent Systems](https://arxiv.org/abs/2602.03036)**  
+  Muxin Fu, Xiangyuan Xue, Yafu Li, Zefeng He, **Siyuan Huang**, Xiaoye Qu, Yu Cheng, and Yang Yang. arXiv preprint, 2026.  
+  [BibTeX](/files/fu2026latentmem.bib)
 
-* **[Project name]**: [Brief description of the project, your role, and key techniques.]
+- **[DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](https://arxiv.org/abs/2512.24165)**  
+  Zefeng He, Xiaoye Qu, Yafu Li, Tong Zhu, **Siyuan Huang**, and Yu Cheng. ICML 2026.  
+  [Project](https://diffthinker-project.github.io/) | [Code](https://github.com/lcqysl/DiffThinker) | [BibTeX](/files/he2025diffthinker.bib)
 
-CV
-======
+- **[VideoSSR: Video Self-Supervised Reinforcement Learning](https://arxiv.org/abs/2511.06281)**  
+  Zefeng He, Xiaoye Qu, Yafu Li, **Siyuan Huang**, Daizong Liu, and Yu Cheng. CVPR 2026.  
+  [Code](https://github.com/lcqysl/VideoSSR) | [BibTeX](/files/he2025videossr.bib)
 
-My CV is available [here](/cv/).
+- **[Spotlight on Token Perception for Multimodal Reinforcement Learning](https://arxiv.org/abs/2510.09285)**  
+  **Siyuan Huang**, Xiaoye Qu, Yafu Li, Yun Luo, Zefeng He, Daizong Liu, and Yu Cheng. ICLR 2026.  
+  [OpenReview](https://openreview.net/forum?id=bRA4lVWJVQ) | [Code](https://github.com/huaixuheqing/VPPO-RL) | [BibTeX](/files/huang2025spotlight.bib)
 
-Contact
-======
+- **[FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting](https://arxiv.org/abs/2509.24304)**  
+  Zefeng He, Xiaoye Qu, Yafu Li, **Siyuan Huang**, Daizong Liu, and Yu Cheng. ICLR 2026.  
+  [OpenReview](https://openreview.net/forum?id=nsNpsCpVG1) | [BibTeX](/files/he2025framethinker.bib)
 
-* Email: [ambrosehuang0430@gmail.com](mailto:ambrosehuang0430@gmail.com)
-* GitHub: [huaixuheqing](https://github.com/huaixuheqing)
-* Google Scholar: [Siyuan Huang](https://scholar.google.com/citations?user=Gw1kYZQAAAAJ)
+- **[Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding](https://arxiv.org/abs/2503.01422)**  
+  Yiming Wang, Pei Zhang, **Siyuan Huang**, Baosong Yang, Zhuosheng Zhang, Fei Huang, and Rui Wang. NeurIPS 2025 Spotlight.  
+  [BibTeX](/files/wang2025sampling.bib)
+
+<span class='anchor' id='education'></span>
+
+# Education
+
+- *Fall 2026 -* Ph.D. student, Computer Science and Engineering, The Chinese University of Hong Kong. Advisor: Prof. [Yu Cheng](https://ych133.github.io/).
+- *2022 - 2026* B.S., Computer Science and Technology, Shanghai Jiao Tong University.
+
+<span class='anchor' id='experience'></span>
+
+# Experience
+
+- *Apr. 2026 - Present* Research Intern, Qwen Applications Business Group, Alibaba.
+- *Jun. 2025 - Apr. 2026* Research Intern, Center for Advanced Exploration, Shanghai Artificial Intelligence Laboratory.
+
+<span class='anchor' id='contact'></span>
+
+# Contact
+
+- Email: [ambrosehuang0430@gmail.com](mailto:ambrosehuang0430@gmail.com)
+- GitHub: [huaixuheqing](https://github.com/huaixuheqing)
+- Google Scholar: [Siyuan Huang](https://scholar.google.com/citations?user=Gw1kYZQAAAAJ)
+- CV: [Web CV](/cv/)
