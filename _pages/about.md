@@ -24,13 +24,13 @@ My research interests include large language models, vision-language models, mul
 # 🔥 News
 
 - *2026.08*: I will join The Chinese University of Hong Kong as a Ph.D. student in Computer Science and Engineering, advised by Prof. [Yu Cheng](https://ych133.github.io/).
-- *2026.05*: Our paper DiffThinker was accepted to ICML 2026.
+- *2026.05*: &nbsp;🎉🎉 Our paper DiffThinker was accepted to ICML 2026.
 - *2026.03*: Our paper GEMS was released as an arXiv preprint.
-- *2026.02*: Our paper VideoSSR was accepted to CVPR 2026.
+- *2026.02*: &nbsp;🎉🎉 Our paper VideoSSR was accepted to CVPR 2026.
 - *2026.02*: Our paper LatentMem was released as an arXiv preprint.
-- *2026.01*: Our paper on token perception for multimodal reinforcement learning was accepted to ICLR 2026.
-- *2026.01*: Our paper FrameThinker was accepted to ICLR 2026.
-- *2025.09*: Our paper on sampling-efficient test-time scaling was accepted to NeurIPS 2025 as a Spotlight.
+- *2026.01*: &nbsp;🎉🎉 Our paper on token perception for multimodal reinforcement learning was accepted to ICLR 2026.
+- *2026.01*: &nbsp;🎉🎉 Our paper FrameThinker was accepted to ICLR 2026.
+- *2025.09*: &nbsp;🎉🎉 Our paper on sampling-efficient test-time scaling was accepted to NeurIPS 2025 as a Spotlight.
 
 # 📝 Publications
 
