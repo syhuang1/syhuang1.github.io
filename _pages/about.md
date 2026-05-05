@@ -54,7 +54,8 @@ My research interests include large language models, vision-language models, mul
   [Code](https://github.com/huaixuheqing/VPPO-RL)
 
 - **[FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting](https://arxiv.org/abs/2509.24304)**  
-  Zefeng He, Xiaoye Qu, Yafu Li, **Siyuan Huang**, Daizong Liu, and Yu Cheng. ICLR 2026.
+  Zefeng He, Xiaoye Qu, Yafu Li, **Siyuan Huang**, Daizong Liu, and Yu Cheng. ICLR 2026.  
+  [Code](https://github.com/lcqysl/FrameThinker)
 
 - **[Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding](https://arxiv.org/abs/2503.01422)**  
   Yiming Wang, Pei Zhang, **Siyuan Huang**, Baosong Yang, Zhuosheng Zhang, Fei Huang, and Rui Wang. NeurIPS 2025 Spotlight.  
